@@ -1,0 +1,38 @@
+﻿@model cuestionarioNom.Models.ViewModels.QuestionnaireEditVm
+@{
+    ViewData["Title"] = "Editar cuestionario";
+}
+<h2>@Model.Title <small class="text-muted">(@Model.Code)</small></h2>
+
+<p>
+    <a class="btn btn-secondary" asp-action="Index">← Volver</a>
+    <a class="btn btn-primary" href="/Surveys/Start?questionnaireId=@Model.Id">Probar este cuestionario</a>
+</p>
+
+<div class="mb-3">
+    <strong>Descripción:</strong>
+    <div>@(string.IsNullOrWhiteSpace(Model.Description) ? "(sin descripción)" : Model.Description)</div>
+</div>
+
+<div class="form-check mb-3">
+    <input class="form-check-input" type="checkbox" disabled @(Model.IsActive ? "checked" : "") />
+    <label class="form-check-label">Activo</label>
+</div>
+
+<h4>Secciones</h4>
+@if (Model.Sections?.Any() == true)
+{
+    <ul class="list-group">
+        @foreach (var s in Model.Sections.OrderBy(x => x.Order))
+        {
+            <li class="list-group-item d-flex justify-content-between align-items-center">
+                <span><strong>@s.Order.</strong> @s.Name</span>
+                <span class="text-muted">Id: @s.Id</span>
+            </li>
+        }
+    </ul>
+}
+else
+{
+    <div class="alert alert-info">Sin secciones.</div>
+}

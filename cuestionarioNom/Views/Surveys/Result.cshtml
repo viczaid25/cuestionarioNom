@@ -1,0 +1,33 @@
+﻿@model cuestionarioNom.Models.ViewModels.SurveyResultVm
+@{
+    ViewData["Title"] = "Resultados";
+}
+
+<h2>Resultados: @Model.QuestionnaireTitle</h2>
+<p><strong>Participante:</strong> @Model.RespondentId</p>
+
+<div class="alert alert-info">
+    <strong>Total:</strong> @Model.Total.Raw — <em>@Model.Total.Level</em>
+</div>
+
+<h4>Por sección</h4>
+<table class="table table-sm">
+    <thead><tr><th>Sección</th><th>Puntaje</th><th>Nivel</th></tr></thead>
+    <tbody>
+        @foreach (var s in Model.BySection.OrderBy(x => x.SectionName))
+        {
+            <tr><td>@s.SectionName</td><td>@s.Raw</td><td>@s.Level</td></tr>
+        }
+    </tbody>
+</table>
+
+<h4>Por dominio/etiqueta</h4>
+<table class="table table-sm">
+    <thead><tr><th>Dominio</th><th>Puntaje</th><th>Nivel</th></tr></thead>
+    <tbody>
+        @foreach (var s in Model.ByTag.OrderBy(x => x.Tag))
+        {
+            <tr><td>@s.Tag</td><td>@s.Raw</td><td>@s.Level</td></tr>
+        }
+    </tbody>
+</table>

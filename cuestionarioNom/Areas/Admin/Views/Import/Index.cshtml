@@ -1,0 +1,33 @@
+﻿@{
+    ViewData["Title"] = "Importar Cuestionario (JSON)";
+}
+<h2>@ViewData["Title"]</h2>
+
+@if (TempData["Err"] != null)
+{
+     <div class="alert alert-danger">@TempData["Err"]</div>
+}
+@if (TempData["Ok"] != null)
+{
+     <div class="alert alert-success">@TempData["Ok"]</div>
+}
+
+<div class="card mb-3">
+    <div class="card-header">Subir archivo .json</div>
+    <div class="card-body">
+        <form asp-action="UploadJson" method="post" enctype="multipart/form-data">
+            <input type="file" name="file" accept=".json,application/json" class="form-control mb-2" />
+            <button class="btn btn-primary">Importar</button>
+        </form>
+    </div>
+</div>
+
+<div class="card">
+    <div class="card-header">Pegar JSON</div>
+    <div class="card-body">
+        <form asp-action="PasteJson" method="post">
+            <textarea name="json" rows="12" class="form-control" placeholder="{ ... }"></textarea>
+            <button class="btn btn-secondary mt-2">Importar</button>
+        </form>
+    </div>
+</div>

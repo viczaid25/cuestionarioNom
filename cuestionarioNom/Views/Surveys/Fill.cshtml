@@ -1,0 +1,41 @@
+﻿@model cuestionarioNom.Models.ViewModels.SurveyFillVm
+@{
+    ViewData["Title"] = Model.QuestionnaireTitle;
+}
+
+<h2>@Model.QuestionnaireTitle</h2>
+
+@foreach (var sec in Model.Sections.OrderBy(s => s.Order))
+{
+    <div class="card mb-3">
+        <div class="card-header fw-bold">@sec.Name</div>
+        <div class="card-body">
+            @foreach (var qu in sec.Questions)
+            {
+                <div class="mb-3">
+                    <label class="form-label">@($"{qu.Code}. {qu.Text}")</label>
+                    @foreach (var opt in qu.Options.OrderBy(o => o.Order))
+                    {
+                        <div class="form-check">
+                            <input class="form-check-input"
+                                   type="radio"
+                                   name="q_@qu.Id"
+                                   value="@opt.Id"
+                            @(qu.SelectedOptionId == opt.Id ? "checked" : "")
+                                   onchange="postAnswer('@Model.SurveyId','@qu.Id',this.value)" />
+                            <label class="form-check-label">@opt.Label</label>
+                        </div>
+                    }
+                </div>
+            }
+        </div>
+    </div>
+}
+
+<form method="post" asp-action="Finish" asp-route-id="@Model.SurveyId">
+    <button class="btn btn-primary">Finalizar y Calcular</button>
+</form>
+
+@section Scripts {
+    <script src="~/js/survey.js"></script>
+}

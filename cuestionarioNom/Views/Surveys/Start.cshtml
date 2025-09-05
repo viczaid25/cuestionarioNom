@@ -1,0 +1,15 @@
+﻿@{
+    ViewData["Title"] = "Iniciar encuesta";
+    var q = ViewBag.Questionnaire as cuestionarioNom.Domain.Entities.Questionnaire;
+}
+
+<h2>@q?.Title</h2>
+
+<form method="get" asp-action="Start">
+    <input type="hidden" name="questionnaireId" value="@q?.Id" />
+    <div class="mb-3">
+        <label class="form-label">ID de participante</label>
+        <input class="form-control" type="text" name="respondentId" required />
+    </div>
+    <button class="btn btn-primary">Comenzar</button>
+</form>

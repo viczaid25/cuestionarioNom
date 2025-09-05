@@ -1,0 +1,31 @@
+﻿@model IEnumerable<cuestionarioNom.Domain.Entities.Questionnaire>
+@{
+    ViewData["Title"] = "Cuestionarios";
+}
+<h2>@ViewData["Title"]</h2>
+
+@if (TempData["Ok"] != null)
+{
+     <div class="alert alert-success">@TempData["Ok"]</div>
+}
+@if (TempData["Err"] != null)
+{
+     <div class="alert alert-danger">@TempData["Err"]</div>
+}
+
+<table class="table table-sm">
+    <thead>
+        <tr><th>Id</th><th>Código</th><th>Título</th><th></th></tr>
+    </thead>
+    <tbody>
+        @foreach (var q in Model)
+        {
+            <tr>
+                <td>@q.Id</td>
+                <td>@q.Code</td>
+                <td>@q.Title</td>
+                <td><a class="btn btn-link" asp-action="Edit" asp-route-id="@q.Id">Editar</a></td>
+            </tr>
+        }
+    </tbody>
+</table>
