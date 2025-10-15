@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("cuestionarioNom")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fd3c536fca0b8f231313f02b7de2f9d4a16b5603")]
 [assembly: System.Reflection.AssemblyProductAttribute("cuestionarioNom")]
 [assembly: System.Reflection.AssemblyTitleAttribute("cuestionarioNom")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

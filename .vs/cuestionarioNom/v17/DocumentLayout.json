@@ -47,10 +47,6 @@
       "RelativeMoniker": "D:0:0:{7E11F1B0-0EE4-47EB-8C81-6B7BAFBF35EA}|cuestionarioNom\\cuestionarioNom.csproj|solutionrelative:cuestionarionom\\services\\importservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\Migrations\\20250902184242_Init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:cuestionarioNom\\Migrations\\20250902184242_Init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7E11F1B0-0EE4-47EB-8C81-6B7BAFBF35EA}|cuestionarioNom\\cuestionarioNom.csproj|c:\\users\\dm45207\\source\\repos\\cuestionarionom\\cuestionarionom\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7E11F1B0-0EE4-47EB-8C81-6B7BAFBF35EA}|cuestionarioNom\\cuestionarioNom.csproj|solutionrelative:cuestionarionom\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -205,6 +201,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{7E11F1B0-0EE4-47EB-8C81-6B7BAFBF35EA}|cuestionarioNom\\cuestionarioNom.csproj|c:\\users\\dm45207\\source\\repos\\cuestionarionom\\cuestionarionom\\cuestionarionom.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{7E11F1B0-0EE4-47EB-8C81-6B7BAFBF35EA}|cuestionarioNom\\cuestionarioNom.csproj|solutionrelative:cuestionarionom\\cuestionarionom.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E11F1B0-0EE4-47EB-8C81-6B7BAFBF35EA}|cuestionarioNom\\cuestionarioNom.csproj|c:\\users\\dm45207\\source\\repos\\cuestionarionom\\cuestionarionom\\migrations\\20250902184242_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E11F1B0-0EE4-47EB-8C81-6B7BAFBF35EA}|cuestionarioNom\\cuestionarioNom.csproj|solutionrelative:cuestionarionom\\migrations\\20250902184242_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -228,51 +228,8 @@
         },
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 15,
+          "SelectedChildIndex": 7,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\Areas\\Admin\\Views\\Questionnaires\\Edit.cshtml",
-              "RelativeDocumentMoniker": "cuestionarioNom\\Areas\\Admin\\Views\\Questionnaires\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\Areas\\Admin\\Views\\Questionnaires\\Edit.cshtml",
-              "RelativeToolTip": "cuestionarioNom\\Areas\\Admin\\Views\\Questionnaires\\Edit.cshtml",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAqwCYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-03T17:08:52.359Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\Areas\\Admin\\Views\\Questionnaires\\Index.cshtml",
-              "RelativeDocumentMoniker": "cuestionarioNom\\Areas\\Admin\\Views\\Questionnaires\\Index.cshtml",
-              "ToolTip": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\Areas\\Admin\\Views\\Questionnaires\\Index.cshtml",
-              "RelativeToolTip": "cuestionarioNom\\Areas\\Admin\\Views\\Questionnaires\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-03T17:08:29.233Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "cuestionarioNom\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "cuestionarioNom\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-03T17:07:06.786Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 4,
@@ -283,12 +240,11 @@
               "RelativeToolTip": "cuestionarioNom\\Areas\\Admin\\Controllers\\ImportController.cs",
               "ViewState": "AgIAABQAAAAAAAAAAAAuwEgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-02T19:08:14.767Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-02T19:08:14.767Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 50,
               "Title": "20250902184242_Init.cs",
               "DocumentMoniker": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\Migrations\\20250902184242_Init.cs",
               "RelativeDocumentMoniker": "cuestionarioNom\\Migrations\\20250902184242_Init.cs",
@@ -296,12 +252,11 @@
               "RelativeToolTip": "cuestionarioNom\\Migrations\\20250902184242_Init.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-02T18:42:42.777Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-02T18:42:42.777Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 12,
               "Title": "20250902182820_Init.cs",
               "DocumentMoniker": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\Migrations\\20250902182820_Init.cs",
               "RelativeDocumentMoniker": "cuestionarioNom\\Migrations\\20250902182820_Init.cs",
@@ -309,12 +264,11 @@
               "RelativeToolTip": "cuestionarioNom\\Migrations\\20250902182820_Init.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-02T18:28:20.887Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-02T18:28:20.887Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 13,
               "Title": "MappingProfile.cs",
               "DocumentMoniker": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\Infrastructure\\Mapping\\MappingProfile.cs",
               "RelativeDocumentMoniker": "cuestionarioNom\\Infrastructure\\Mapping\\MappingProfile.cs",
@@ -322,12 +276,11 @@
               "RelativeToolTip": "cuestionarioNom\\Infrastructure\\Mapping\\MappingProfile.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAcwCcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-02T17:44:28.921Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-02T17:44:28.921Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 15,
               "Title": "survey.js",
               "DocumentMoniker": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\js\\survey.js",
               "RelativeDocumentMoniker": "cuestionarioNom\\wwwroot\\js\\survey.js",
@@ -347,8 +300,7 @@
               "RelativeToolTip": "cuestionarioNom\\Program.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAB8AAABPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-02T17:57:35.436Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-02T17:57:35.436Z"
             },
             {
               "$type": "Document",
@@ -360,56 +312,7 @@
               "RelativeToolTip": "cuestionarioNom\\Views\\Surveys\\Result.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-02T17:47:25.966Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "SurveysController.cs",
-              "DocumentMoniker": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\Controllers\\SurveysController.cs",
-              "RelativeDocumentMoniker": "cuestionarioNom\\Controllers\\SurveysController.cs",
-              "ToolTip": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\Controllers\\SurveysController.cs",
-              "RelativeToolTip": "cuestionarioNom\\Controllers\\SurveysController.cs",
-              "ViewState": "AgIAAGYAAAAAAAAAAAAqwIwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-02T17:33:31.373Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\appsettings.json",
-              "RelativeDocumentMoniker": "cuestionarioNom\\appsettings.json",
-              "ToolTip": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\appsettings.json",
-              "RelativeToolTip": "cuestionarioNom\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-09-02T18:00:43.024Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "RuleEditVm.cs",
-              "DocumentMoniker": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\Models\\ViewModels\\RuleEditVm.cs",
-              "RelativeDocumentMoniker": "cuestionarioNom\\Models\\ViewModels\\RuleEditVm.cs",
-              "ToolTip": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\Models\\ViewModels\\RuleEditVm.cs",
-              "RelativeToolTip": "cuestionarioNom\\Models\\ViewModels\\RuleEditVm.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-02T17:41:28.12Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "SurveyFillVm.cs",
-              "DocumentMoniker": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\Models\\ViewModels\\SurveyFillVm.cs",
-              "RelativeDocumentMoniker": "cuestionarioNom\\Models\\ViewModels\\SurveyFillVm.cs",
-              "ToolTip": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\Models\\ViewModels\\SurveyFillVm.cs",
-              "RelativeToolTip": "cuestionarioNom\\Models\\ViewModels\\SurveyFillVm.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-02T17:40:35.197Z"
+              "WhenOpened": "2025-09-02T17:47:25.966Z"
             },
             {
               "$type": "Document",
@@ -426,6 +329,94 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "cuestionarioNom\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "cuestionarioNom\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-03T17:07:06.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\Areas\\Admin\\Views\\Questionnaires\\Index.cshtml",
+              "RelativeDocumentMoniker": "cuestionarioNom\\Areas\\Admin\\Views\\Questionnaires\\Index.cshtml",
+              "ToolTip": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\Areas\\Admin\\Views\\Questionnaires\\Index.cshtml",
+              "RelativeToolTip": "cuestionarioNom\\Areas\\Admin\\Views\\Questionnaires\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-03T17:08:29.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\Areas\\Admin\\Views\\Questionnaires\\Edit.cshtml",
+              "RelativeDocumentMoniker": "cuestionarioNom\\Areas\\Admin\\Views\\Questionnaires\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\Areas\\Admin\\Views\\Questionnaires\\Edit.cshtml",
+              "RelativeToolTip": "cuestionarioNom\\Areas\\Admin\\Views\\Questionnaires\\Edit.cshtml",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAqwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-03T17:08:52.359Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "SurveysController.cs",
+              "DocumentMoniker": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\Controllers\\SurveysController.cs",
+              "RelativeDocumentMoniker": "cuestionarioNom\\Controllers\\SurveysController.cs",
+              "ToolTip": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\Controllers\\SurveysController.cs",
+              "RelativeToolTip": "cuestionarioNom\\Controllers\\SurveysController.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAqwIwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T17:33:31.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\appsettings.json",
+              "RelativeDocumentMoniker": "cuestionarioNom\\appsettings.json",
+              "ToolTip": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\appsettings.json",
+              "RelativeToolTip": "cuestionarioNom\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-02T18:00:43.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "RuleEditVm.cs",
+              "DocumentMoniker": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\Models\\ViewModels\\RuleEditVm.cs",
+              "RelativeDocumentMoniker": "cuestionarioNom\\Models\\ViewModels\\RuleEditVm.cs",
+              "ToolTip": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\Models\\ViewModels\\RuleEditVm.cs",
+              "RelativeToolTip": "cuestionarioNom\\Models\\ViewModels\\RuleEditVm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T17:41:28.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "SurveyFillVm.cs",
+              "DocumentMoniker": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\Models\\ViewModels\\SurveyFillVm.cs",
+              "RelativeDocumentMoniker": "cuestionarioNom\\Models\\ViewModels\\SurveyFillVm.cs",
+              "ToolTip": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\Models\\ViewModels\\SurveyFillVm.cs",
+              "RelativeToolTip": "cuestionarioNom\\Models\\ViewModels\\SurveyFillVm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T17:40:35.197Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 8,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\Areas\\Admin\\Views\\Import\\Index.cshtml",
@@ -434,8 +425,7 @@
               "RelativeToolTip": "cuestionarioNom\\Areas\\Admin\\Views\\Import\\Index.cshtml",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAAAkAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-02T19:08:57.46Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-02T19:08:57.46Z"
             },
             {
               "$type": "Document",
@@ -447,8 +437,7 @@
               "RelativeToolTip": "cuestionarioNom\\Areas\\Admin\\Views\\_ViewStart.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-03T17:07:33.556Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-03T17:07:33.556Z"
             },
             {
               "$type": "Document",
@@ -460,12 +449,11 @@
               "RelativeToolTip": "cuestionarioNom\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-03T16:49:43.125Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-03T16:49:43.125Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 22,
               "Title": "QuestionnaireEditVm.cs",
               "DocumentMoniker": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\Models\\ViewModels\\QuestionnaireEditVm.cs",
               "RelativeDocumentMoniker": "cuestionarioNom\\Models\\ViewModels\\QuestionnaireEditVm.cs",
@@ -477,7 +465,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 23,
               "Title": "SurveyResultVm.cs",
               "DocumentMoniker": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\Models\\ViewModels\\SurveyResultVm.cs",
               "RelativeDocumentMoniker": "cuestionarioNom\\Models\\ViewModels\\SurveyResultVm.cs",
@@ -497,12 +485,11 @@
               "RelativeToolTip": "cuestionarioNom\\Services\\ImportService.cs",
               "ViewState": "AgIAAD0AAAAAAAAAAAAuwF8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-02T17:42:58.494Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-02T17:42:58.494Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 16,
               "Title": "Fill.cshtml",
               "DocumentMoniker": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\Views\\Surveys\\Fill.cshtml",
               "RelativeDocumentMoniker": "cuestionarioNom\\Views\\Surveys\\Fill.cshtml",
@@ -514,7 +501,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 17,
               "Title": "Start.cshtml",
               "DocumentMoniker": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\Views\\Surveys\\Start.cshtml",
               "RelativeDocumentMoniker": "cuestionarioNom\\Views\\Surveys\\Start.cshtml",
@@ -526,7 +513,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 18,
               "Title": "RulesController.cs",
               "DocumentMoniker": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\Areas\\Admin\\Controllers\\RulesController.cs",
               "RelativeDocumentMoniker": "cuestionarioNom\\Areas\\Admin\\Controllers\\RulesController.cs",
@@ -538,7 +525,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 11,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "cuestionarioNom\\Data\\ApplicationDbContext.cs",
@@ -546,12 +533,11 @@
               "RelativeToolTip": "cuestionarioNom\\Data\\ApplicationDbContext.cs",
               "ViewState": "AgIAAEcAAAAAAAAAAAAuwGkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-02T17:52:23.747Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-02T17:52:23.747Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 24,
               "Title": "ImportQuestionnaireDto.cs",
               "DocumentMoniker": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\Models\\Dtos\\ImportQuestionnaireDto.cs",
               "RelativeDocumentMoniker": "cuestionarioNom\\Models\\Dtos\\ImportQuestionnaireDto.cs",
@@ -563,7 +549,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 25,
               "Title": "ScoringService.cs",
               "DocumentMoniker": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\Services\\ScoringService.cs",
               "RelativeDocumentMoniker": "cuestionarioNom\\Services\\ScoringService.cs",
@@ -575,7 +561,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 26,
               "Title": "IReportService.cs",
               "DocumentMoniker": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\Services\\Interfaces\\IReportService.cs",
               "RelativeDocumentMoniker": "cuestionarioNom\\Services\\Interfaces\\IReportService.cs",
@@ -587,7 +573,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 27,
               "Title": "IImportService.cs",
               "DocumentMoniker": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\Services\\Interfaces\\IImportService.cs",
               "RelativeDocumentMoniker": "cuestionarioNom\\Services\\Interfaces\\IImportService.cs",
@@ -599,7 +585,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 28,
               "Title": "IScoringService.cs",
               "DocumentMoniker": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\Services\\Interfaces\\IScoringService.cs",
               "RelativeDocumentMoniker": "cuestionarioNom\\Services\\Interfaces\\IScoringService.cs",
@@ -611,7 +597,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 29,
               "Title": "Score.cs",
               "DocumentMoniker": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\Domain\\Entities\\Score.cs",
               "RelativeDocumentMoniker": "cuestionarioNom\\Domain\\Entities\\Score.cs",
@@ -623,7 +609,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 30,
               "Title": "ScoringRule.cs",
               "DocumentMoniker": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\Domain\\Entities\\ScoringRule.cs",
               "RelativeDocumentMoniker": "cuestionarioNom\\Domain\\Entities\\ScoringRule.cs",
@@ -635,7 +621,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 31,
               "Title": "Response.cs",
               "DocumentMoniker": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\Domain\\Entities\\Response.cs",
               "RelativeDocumentMoniker": "cuestionarioNom\\Domain\\Entities\\Response.cs",
@@ -647,7 +633,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 32,
               "Title": "Survey.cs",
               "DocumentMoniker": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\Domain\\Entities\\Survey.cs",
               "RelativeDocumentMoniker": "cuestionarioNom\\Domain\\Entities\\Survey.cs",
@@ -659,7 +645,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 33,
               "Title": "QuestionTag.cs",
               "DocumentMoniker": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\Domain\\Entities\\QuestionTag.cs",
               "RelativeDocumentMoniker": "cuestionarioNom\\Domain\\Entities\\QuestionTag.cs",
@@ -671,7 +657,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 34,
               "Title": "Option.cs",
               "DocumentMoniker": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\Domain\\Entities\\Option.cs",
               "RelativeDocumentMoniker": "cuestionarioNom\\Domain\\Entities\\Option.cs",
@@ -683,7 +669,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 35,
               "Title": "Question.cs",
               "DocumentMoniker": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\Domain\\Entities\\Question.cs",
               "RelativeDocumentMoniker": "cuestionarioNom\\Domain\\Entities\\Question.cs",
@@ -695,7 +681,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 36,
               "Title": "Section.cs",
               "DocumentMoniker": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\Domain\\Entities\\Section.cs",
               "RelativeDocumentMoniker": "cuestionarioNom\\Domain\\Entities\\Section.cs",
@@ -707,7 +693,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 37,
               "Title": "Questionnaire.cs",
               "DocumentMoniker": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\Domain\\Entities\\Questionnaire.cs",
               "RelativeDocumentMoniker": "cuestionarioNom\\Domain\\Entities\\Questionnaire.cs",
@@ -719,7 +705,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 38,
               "Title": "ScoreScope.cs",
               "DocumentMoniker": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\Domain\\Enums\\ScoreScope.cs",
               "RelativeDocumentMoniker": "cuestionarioNom\\Domain\\Enums\\ScoreScope.cs",
@@ -731,7 +717,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 39,
               "Title": "QuestionType.cs",
               "DocumentMoniker": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\Domain\\Enums\\QuestionType.cs",
               "RelativeDocumentMoniker": "cuestionarioNom\\Domain\\Enums\\QuestionType.cs",
@@ -743,7 +729,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 40,
               "Title": "LikertTagHelper.cs",
               "DocumentMoniker": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\TagHelpers\\LikertTagHelper.cs",
               "RelativeDocumentMoniker": "cuestionarioNom\\TagHelpers\\LikertTagHelper.cs",
@@ -755,7 +741,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 41,
               "Title": "NOM035-IT-2018.json",
               "DocumentMoniker": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\Files\\Imports\\NOM035-IT-2018.json",
               "RelativeDocumentMoniker": "cuestionarioNom\\Files\\Imports\\NOM035-IT-2018.json",
@@ -767,7 +753,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 42,
               "Title": "Default.cshtml",
               "DocumentMoniker": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\Views\\Shared\\Components\\ScoreBadge\\Default.cshtml",
               "RelativeDocumentMoniker": "cuestionarioNom\\Views\\Shared\\Components\\ScoreBadge\\Default.cshtml",
@@ -779,7 +765,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 43,
               "Title": "GlobalExceptionFilter.cs",
               "DocumentMoniker": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\Infrastructure\\Filters\\GlobalExceptionFilter.cs",
               "RelativeDocumentMoniker": "cuestionarioNom\\Infrastructure\\Filters\\GlobalExceptionFilter.cs",
@@ -791,7 +777,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 44,
               "Title": "SurveyValidation.cs",
               "DocumentMoniker": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\Infrastructure\\Validation\\SurveyValidation.cs",
               "RelativeDocumentMoniker": "cuestionarioNom\\Infrastructure\\Validation\\SurveyValidation.cs",
@@ -803,7 +789,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 45,
               "Title": "ReportService.cs",
               "DocumentMoniker": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\Services\\ReportService.cs",
               "RelativeDocumentMoniker": "cuestionarioNom\\Services\\ReportService.cs",
@@ -815,7 +801,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 46,
               "Title": "Nom035Seed.cs",
               "DocumentMoniker": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\Data\\Seed\\Nom035Seed.cs",
               "RelativeDocumentMoniker": "cuestionarioNom\\Data\\Seed\\Nom035Seed.cs",
@@ -827,7 +813,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 47,
               "Title": "AdminAreaRegistration.cs",
               "DocumentMoniker": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\Areas\\Admin\\AdminAreaRegistration.cs",
               "RelativeDocumentMoniker": "cuestionarioNom\\Areas\\Admin\\AdminAreaRegistration.cs",
@@ -839,7 +825,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 48,
               "Title": "ImportController.cs",
               "DocumentMoniker": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\Controllers\\Api\\ImportController.cs",
               "RelativeDocumentMoniker": "cuestionarioNom\\Controllers\\Api\\ImportController.cs",
@@ -851,7 +837,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 49,
               "Title": "cuestionarioNom.csproj",
               "DocumentMoniker": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\cuestionarioNom.csproj",
               "RelativeDocumentMoniker": "cuestionarioNom\\cuestionarioNom.csproj",
