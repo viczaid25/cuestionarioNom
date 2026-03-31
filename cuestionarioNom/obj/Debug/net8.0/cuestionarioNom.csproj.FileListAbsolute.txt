@@ -156,3 +156,4 @@ C:\Users\dm45207\source\repos\cuestionarioNom\cuestionarioNom\obj\Debug\net8.0\r
 C:\Users\dm45207\source\repos\cuestionarioNom\cuestionarioNom\obj\Debug\net8.0\cuestionarioNom.pdb
 C:\Users\dm45207\source\repos\cuestionarioNom\cuestionarioNom\obj\Debug\net8.0\cuestionarioNom.genruntimeconfig.cache
 C:\Users\dm45207\source\repos\cuestionarioNom\cuestionarioNom\obj\Debug\net8.0\ref\cuestionarioNom.dll
+C:\Users\dm45207\source\repos\cuestionarioNom\cuestionarioNom\obj\Debug\net8.0\cuestionarioNom.sourcelink.json

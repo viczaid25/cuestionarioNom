@@ -1,17 +1,17 @@
 {
   "Version": 1,
-  "Hash": "dKZ/S2mVR5ddV5A02LJniVnainzcKHXFdZEMlYc0W10=",
-  "Source": "cuestionarioNom35",
-  "BasePath": "_content/cuestionarioNom35",
+  "Hash": "mWSSM+QexLCNhnRenPLIkjbMRqiXM6AYMxU019+l/VU=",
+  "Source": "cuestionarioNom",
+  "BasePath": "_content/cuestionarioNom",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [
     {
-      "Name": "cuestionarioNom35\\wwwroot",
-      "Source": "cuestionarioNom35",
-      "ContentRoot": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\",
-      "BasePath": "_content/cuestionarioNom35",
+      "Name": "cuestionarioNom\\wwwroot",
+      "Source": "cuestionarioNom",
+      "ContentRoot": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\",
+      "BasePath": "_content/cuestionarioNom",
       "Pattern": "**"
     }
   ],
@@ -1277,12 +1277,12 @@
       "OriginalItemSpec": "C:\\Users\\dm45207\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.17\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\obj\\Debug\\net8.0\\scopedcss\\bundle\\cuestionarioNom35.styles.css",
-      "SourceId": "cuestionarioNom35",
+      "Identity": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\obj\\Debug\\net8.0\\scopedcss\\bundle\\cuestionarioNom.styles.css",
+      "SourceId": "cuestionarioNom",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
-      "BasePath": "_content/cuestionarioNom35",
-      "RelativePath": "cuestionarioNom35#[.{fingerprint}]?.styles.css",
+      "ContentRoot": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/cuestionarioNom",
+      "RelativePath": "cuestionarioNom#[.{fingerprint}]?.styles.css",
       "AssetKind": "All",
       "AssetMode": "CurrentProject",
       "AssetRole": "Primary",
@@ -1291,19 +1291,19 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ApplicationBundle",
-      "Fingerprint": "q41xqbuqzd",
-      "Integrity": "BrZbwZ/kbB7coDWqyk3IT6oYrRpak2RqNZ/3eRdBxN8=",
+      "Fingerprint": "9e2cjp17ri",
+      "Integrity": "36EA5YUN6iXV1WLObW4RZogzIXewPFsI8SMBvPJKC2I=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\obj\\Debug\\net8.0\\scopedcss\\bundle\\cuestionarioNom35.styles.css"
+      "OriginalItemSpec": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\obj\\Debug\\net8.0\\scopedcss\\bundle\\cuestionarioNom.styles.css"
     },
     {
-      "Identity": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\cuestionarioNom35.bundle.scp.css",
-      "SourceId": "cuestionarioNom35",
+      "Identity": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\cuestionarioNom.bundle.scp.css",
+      "SourceId": "cuestionarioNom",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
-      "BasePath": "_content/cuestionarioNom35",
-      "RelativePath": "cuestionarioNom35#[.{fingerprint}]!.bundle.scp.css",
+      "ContentRoot": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/cuestionarioNom",
+      "RelativePath": "cuestionarioNom#[.{fingerprint}]!.bundle.scp.css",
       "AssetKind": "All",
       "AssetMode": "Reference",
       "AssetRole": "Primary",
@@ -1312,18 +1312,18 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ProjectBundle",
-      "Fingerprint": "q41xqbuqzd",
-      "Integrity": "BrZbwZ/kbB7coDWqyk3IT6oYrRpak2RqNZ/3eRdBxN8=",
+      "Fingerprint": "9e2cjp17ri",
+      "Integrity": "36EA5YUN6iXV1WLObW4RZogzIXewPFsI8SMBvPJKC2I=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\cuestionarioNom35.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\cuestionarioNom.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\css\\site.css",
-      "SourceId": "cuestionarioNom35",
+      "Identity": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\css\\site.css",
+      "SourceId": "cuestionarioNom",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\",
-      "BasePath": "_content/cuestionarioNom35",
+      "ContentRoot": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\",
+      "BasePath": "_content/cuestionarioNom",
       "RelativePath": "css/site#[.{fingerprint}]?.css",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1340,11 +1340,11 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\favicon.ico",
-      "SourceId": "cuestionarioNom35",
+      "Identity": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\favicon.ico",
+      "SourceId": "cuestionarioNom",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\",
-      "BasePath": "_content/cuestionarioNom35",
+      "ContentRoot": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\",
+      "BasePath": "_content/cuestionarioNom",
       "RelativePath": "favicon#[.{fingerprint}]?.ico",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1361,11 +1361,11 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\js\\charts.js",
-      "SourceId": "cuestionarioNom35",
+      "Identity": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\js\\charts.js",
+      "SourceId": "cuestionarioNom",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\",
-      "BasePath": "_content/cuestionarioNom35",
+      "ContentRoot": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\",
+      "BasePath": "_content/cuestionarioNom",
       "RelativePath": "js/charts#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1382,11 +1382,11 @@
       "OriginalItemSpec": "wwwroot\\js\\charts.js"
     },
     {
-      "Identity": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\js\\site.js",
-      "SourceId": "cuestionarioNom35",
+      "Identity": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\js\\site.js",
+      "SourceId": "cuestionarioNom",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\",
-      "BasePath": "_content/cuestionarioNom35",
+      "ContentRoot": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\",
+      "BasePath": "_content/cuestionarioNom",
       "RelativePath": "js/site#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1403,11 +1403,11 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\js\\survey.js",
-      "SourceId": "cuestionarioNom35",
+      "Identity": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\js\\survey.js",
+      "SourceId": "cuestionarioNom",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\",
-      "BasePath": "_content/cuestionarioNom35",
+      "ContentRoot": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\",
+      "BasePath": "_content/cuestionarioNom",
       "RelativePath": "js/survey#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1424,11 +1424,11 @@
       "OriginalItemSpec": "wwwroot\\js\\survey.js"
     },
     {
-      "Identity": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
-      "SourceId": "cuestionarioNom35",
+      "Identity": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "SourceId": "cuestionarioNom",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\",
-      "BasePath": "_content/cuestionarioNom35",
+      "ContentRoot": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\",
+      "BasePath": "_content/cuestionarioNom",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap#[.{fingerprint}]?.css",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1445,11 +1445,11 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
-      "SourceId": "cuestionarioNom35",
+      "Identity": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "SourceId": "cuestionarioNom",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\",
-      "BasePath": "_content/cuestionarioNom35",
+      "ContentRoot": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\",
+      "BasePath": "_content/cuestionarioNom",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1466,11 +1466,11 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
-      "SourceId": "cuestionarioNom35",
+      "Identity": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "SourceId": "cuestionarioNom",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\",
-      "BasePath": "_content/cuestionarioNom35",
+      "ContentRoot": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\",
+      "BasePath": "_content/cuestionarioNom",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1487,11 +1487,11 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
-      "SourceId": "cuestionarioNom35",
+      "Identity": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "SourceId": "cuestionarioNom",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\",
-      "BasePath": "_content/cuestionarioNom35",
+      "ContentRoot": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\",
+      "BasePath": "_content/cuestionarioNom",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1508,11 +1508,11 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
-      "SourceId": "cuestionarioNom35",
+      "Identity": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "SourceId": "cuestionarioNom",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\",
-      "BasePath": "_content/cuestionarioNom35",
+      "ContentRoot": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\",
+      "BasePath": "_content/cuestionarioNom",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1529,11 +1529,11 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
-      "SourceId": "cuestionarioNom35",
+      "Identity": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "SourceId": "cuestionarioNom",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\",
-      "BasePath": "_content/cuestionarioNom35",
+      "ContentRoot": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\",
+      "BasePath": "_content/cuestionarioNom",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1550,11 +1550,11 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
-      "SourceId": "cuestionarioNom35",
+      "Identity": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "SourceId": "cuestionarioNom",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\",
-      "BasePath": "_content/cuestionarioNom35",
+      "ContentRoot": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\",
+      "BasePath": "_content/cuestionarioNom",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1571,11 +1571,11 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
-      "SourceId": "cuestionarioNom35",
+      "Identity": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "SourceId": "cuestionarioNom",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\",
-      "BasePath": "_content/cuestionarioNom35",
+      "ContentRoot": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\",
+      "BasePath": "_content/cuestionarioNom",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1592,11 +1592,11 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
-      "SourceId": "cuestionarioNom35",
+      "Identity": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "SourceId": "cuestionarioNom",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\",
-      "BasePath": "_content/cuestionarioNom35",
+      "ContentRoot": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\",
+      "BasePath": "_content/cuestionarioNom",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid#[.{fingerprint}]?.css",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1613,11 +1613,11 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
-      "SourceId": "cuestionarioNom35",
+      "Identity": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "SourceId": "cuestionarioNom",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\",
-      "BasePath": "_content/cuestionarioNom35",
+      "ContentRoot": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\",
+      "BasePath": "_content/cuestionarioNom",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1634,11 +1634,11 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
-      "SourceId": "cuestionarioNom35",
+      "Identity": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "SourceId": "cuestionarioNom",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\",
-      "BasePath": "_content/cuestionarioNom35",
+      "ContentRoot": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\",
+      "BasePath": "_content/cuestionarioNom",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1655,11 +1655,11 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
-      "SourceId": "cuestionarioNom35",
+      "Identity": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "SourceId": "cuestionarioNom",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\",
-      "BasePath": "_content/cuestionarioNom35",
+      "ContentRoot": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\",
+      "BasePath": "_content/cuestionarioNom",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1676,11 +1676,11 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
-      "SourceId": "cuestionarioNom35",
+      "Identity": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "SourceId": "cuestionarioNom",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\",
-      "BasePath": "_content/cuestionarioNom35",
+      "ContentRoot": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\",
+      "BasePath": "_content/cuestionarioNom",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1697,11 +1697,11 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
-      "SourceId": "cuestionarioNom35",
+      "Identity": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "SourceId": "cuestionarioNom",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\",
-      "BasePath": "_content/cuestionarioNom35",
+      "ContentRoot": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\",
+      "BasePath": "_content/cuestionarioNom",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1718,11 +1718,11 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
-      "SourceId": "cuestionarioNom35",
+      "Identity": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "SourceId": "cuestionarioNom",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\",
-      "BasePath": "_content/cuestionarioNom35",
+      "ContentRoot": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\",
+      "BasePath": "_content/cuestionarioNom",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1739,11 +1739,11 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
-      "SourceId": "cuestionarioNom35",
+      "Identity": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "SourceId": "cuestionarioNom",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\",
-      "BasePath": "_content/cuestionarioNom35",
+      "ContentRoot": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\",
+      "BasePath": "_content/cuestionarioNom",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1760,11 +1760,11 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
-      "SourceId": "cuestionarioNom35",
+      "Identity": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "SourceId": "cuestionarioNom",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\",
-      "BasePath": "_content/cuestionarioNom35",
+      "ContentRoot": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\",
+      "BasePath": "_content/cuestionarioNom",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot#[.{fingerprint}]?.css",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1781,11 +1781,11 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
-      "SourceId": "cuestionarioNom35",
+      "Identity": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "SourceId": "cuestionarioNom",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\",
-      "BasePath": "_content/cuestionarioNom35",
+      "ContentRoot": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\",
+      "BasePath": "_content/cuestionarioNom",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1802,11 +1802,11 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
-      "SourceId": "cuestionarioNom35",
+      "Identity": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "SourceId": "cuestionarioNom",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\",
-      "BasePath": "_content/cuestionarioNom35",
+      "ContentRoot": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\",
+      "BasePath": "_content/cuestionarioNom",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1823,11 +1823,11 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
-      "SourceId": "cuestionarioNom35",
+      "Identity": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "SourceId": "cuestionarioNom",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\",
-      "BasePath": "_content/cuestionarioNom35",
+      "ContentRoot": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\",
+      "BasePath": "_content/cuestionarioNom",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1844,11 +1844,11 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
-      "SourceId": "cuestionarioNom35",
+      "Identity": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "SourceId": "cuestionarioNom",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\",
-      "BasePath": "_content/cuestionarioNom35",
+      "ContentRoot": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\",
+      "BasePath": "_content/cuestionarioNom",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1865,11 +1865,11 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
-      "SourceId": "cuestionarioNom35",
+      "Identity": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "SourceId": "cuestionarioNom",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\",
-      "BasePath": "_content/cuestionarioNom35",
+      "ContentRoot": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\",
+      "BasePath": "_content/cuestionarioNom",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1886,11 +1886,11 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
-      "SourceId": "cuestionarioNom35",
+      "Identity": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "SourceId": "cuestionarioNom",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\",
-      "BasePath": "_content/cuestionarioNom35",
+      "ContentRoot": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\",
+      "BasePath": "_content/cuestionarioNom",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1907,11 +1907,11 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
-      "SourceId": "cuestionarioNom35",
+      "Identity": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "SourceId": "cuestionarioNom",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\",
-      "BasePath": "_content/cuestionarioNom35",
+      "ContentRoot": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\",
+      "BasePath": "_content/cuestionarioNom",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1928,11 +1928,11 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
-      "SourceId": "cuestionarioNom35",
+      "Identity": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "SourceId": "cuestionarioNom",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\",
-      "BasePath": "_content/cuestionarioNom35",
+      "ContentRoot": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\",
+      "BasePath": "_content/cuestionarioNom",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities#[.{fingerprint}]?.css",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1949,11 +1949,11 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
-      "SourceId": "cuestionarioNom35",
+      "Identity": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "SourceId": "cuestionarioNom",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\",
-      "BasePath": "_content/cuestionarioNom35",
+      "ContentRoot": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\",
+      "BasePath": "_content/cuestionarioNom",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1970,11 +1970,11 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
-      "SourceId": "cuestionarioNom35",
+      "Identity": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "SourceId": "cuestionarioNom",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\",
-      "BasePath": "_content/cuestionarioNom35",
+      "ContentRoot": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\",
+      "BasePath": "_content/cuestionarioNom",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1991,11 +1991,11 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
-      "SourceId": "cuestionarioNom35",
+      "Identity": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "SourceId": "cuestionarioNom",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\",
-      "BasePath": "_content/cuestionarioNom35",
+      "ContentRoot": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\",
+      "BasePath": "_content/cuestionarioNom",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -2012,11 +2012,11 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
-      "SourceId": "cuestionarioNom35",
+      "Identity": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "SourceId": "cuestionarioNom",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\",
-      "BasePath": "_content/cuestionarioNom35",
+      "ContentRoot": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\",
+      "BasePath": "_content/cuestionarioNom",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -2033,11 +2033,11 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
-      "SourceId": "cuestionarioNom35",
+      "Identity": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "SourceId": "cuestionarioNom",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\",
-      "BasePath": "_content/cuestionarioNom35",
+      "ContentRoot": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\",
+      "BasePath": "_content/cuestionarioNom",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -2054,11 +2054,11 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
-      "SourceId": "cuestionarioNom35",
+      "Identity": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "SourceId": "cuestionarioNom",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\",
-      "BasePath": "_content/cuestionarioNom35",
+      "ContentRoot": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\",
+      "BasePath": "_content/cuestionarioNom",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -2075,11 +2075,11 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
-      "SourceId": "cuestionarioNom35",
+      "Identity": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "SourceId": "cuestionarioNom",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\",
-      "BasePath": "_content/cuestionarioNom35",
+      "ContentRoot": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\",
+      "BasePath": "_content/cuestionarioNom",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -2096,11 +2096,11 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
-      "SourceId": "cuestionarioNom35",
+      "Identity": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "SourceId": "cuestionarioNom",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\",
-      "BasePath": "_content/cuestionarioNom35",
+      "ContentRoot": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\",
+      "BasePath": "_content/cuestionarioNom",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -2117,11 +2117,11 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
-      "SourceId": "cuestionarioNom35",
+      "Identity": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "SourceId": "cuestionarioNom",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\",
-      "BasePath": "_content/cuestionarioNom35",
+      "ContentRoot": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\",
+      "BasePath": "_content/cuestionarioNom",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -2138,11 +2138,11 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
-      "SourceId": "cuestionarioNom35",
+      "Identity": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "SourceId": "cuestionarioNom",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\",
-      "BasePath": "_content/cuestionarioNom35",
+      "ContentRoot": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\",
+      "BasePath": "_content/cuestionarioNom",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -2159,11 +2159,11 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
-      "SourceId": "cuestionarioNom35",
+      "Identity": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "SourceId": "cuestionarioNom",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\",
-      "BasePath": "_content/cuestionarioNom35",
+      "ContentRoot": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\",
+      "BasePath": "_content/cuestionarioNom",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -2180,11 +2180,11 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
-      "SourceId": "cuestionarioNom35",
+      "Identity": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "SourceId": "cuestionarioNom",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\",
-      "BasePath": "_content/cuestionarioNom35",
+      "ContentRoot": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\",
+      "BasePath": "_content/cuestionarioNom",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -2201,11 +2201,11 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
-      "SourceId": "cuestionarioNom35",
+      "Identity": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "SourceId": "cuestionarioNom",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\",
-      "BasePath": "_content/cuestionarioNom35",
+      "ContentRoot": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\",
+      "BasePath": "_content/cuestionarioNom",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -2222,11 +2222,11 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
-      "SourceId": "cuestionarioNom35",
+      "Identity": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "SourceId": "cuestionarioNom",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\",
-      "BasePath": "_content/cuestionarioNom35",
+      "ContentRoot": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\",
+      "BasePath": "_content/cuestionarioNom",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -2243,11 +2243,11 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
-      "SourceId": "cuestionarioNom35",
+      "Identity": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "SourceId": "cuestionarioNom",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\",
-      "BasePath": "_content/cuestionarioNom35",
+      "ContentRoot": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\",
+      "BasePath": "_content/cuestionarioNom",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -2264,11 +2264,11 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
-      "SourceId": "cuestionarioNom35",
+      "Identity": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "SourceId": "cuestionarioNom",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\",
-      "BasePath": "_content/cuestionarioNom35",
+      "ContentRoot": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\",
+      "BasePath": "_content/cuestionarioNom",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -2285,11 +2285,11 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
-      "SourceId": "cuestionarioNom35",
+      "Identity": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "SourceId": "cuestionarioNom",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\",
-      "BasePath": "_content/cuestionarioNom35",
+      "ContentRoot": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\",
+      "BasePath": "_content/cuestionarioNom",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -2306,11 +2306,11 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
-      "SourceId": "cuestionarioNom35",
+      "Identity": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "SourceId": "cuestionarioNom",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\",
-      "BasePath": "_content/cuestionarioNom35",
+      "ContentRoot": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\",
+      "BasePath": "_content/cuestionarioNom",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -2327,11 +2327,11 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
-      "SourceId": "cuestionarioNom35",
+      "Identity": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "SourceId": "cuestionarioNom",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\",
-      "BasePath": "_content/cuestionarioNom35",
+      "ContentRoot": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\",
+      "BasePath": "_content/cuestionarioNom",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -2348,11 +2348,11 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\LICENSE",
-      "SourceId": "cuestionarioNom35",
+      "Identity": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "SourceId": "cuestionarioNom",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\",
-      "BasePath": "_content/cuestionarioNom35",
+      "ContentRoot": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\",
+      "BasePath": "_content/cuestionarioNom",
       "RelativePath": "lib/bootstrap/LICENSE#[.{fingerprint}]?",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -2369,11 +2369,11 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\lib\\jquery\\dist\\jquery.js",
-      "SourceId": "cuestionarioNom35",
+      "Identity": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "SourceId": "cuestionarioNom",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\",
-      "BasePath": "_content/cuestionarioNom35",
+      "ContentRoot": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\",
+      "BasePath": "_content/cuestionarioNom",
       "RelativePath": "lib/jquery/dist/jquery#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -2390,11 +2390,11 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
-      "SourceId": "cuestionarioNom35",
+      "Identity": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "SourceId": "cuestionarioNom",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\",
-      "BasePath": "_content/cuestionarioNom35",
+      "ContentRoot": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\",
+      "BasePath": "_content/cuestionarioNom",
       "RelativePath": "lib/jquery/dist/jquery.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -2411,11 +2411,11 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
-      "SourceId": "cuestionarioNom35",
+      "Identity": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "SourceId": "cuestionarioNom",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\",
-      "BasePath": "_content/cuestionarioNom35",
+      "ContentRoot": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\",
+      "BasePath": "_content/cuestionarioNom",
       "RelativePath": "lib/jquery/dist/jquery.min#[.{fingerprint}]?.map",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -2432,11 +2432,11 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\lib\\jquery\\LICENSE.txt",
-      "SourceId": "cuestionarioNom35",
+      "Identity": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "SourceId": "cuestionarioNom",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\",
-      "BasePath": "_content/cuestionarioNom35",
+      "ContentRoot": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\",
+      "BasePath": "_content/cuestionarioNom",
       "RelativePath": "lib/jquery/LICENSE#[.{fingerprint}]?.txt",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -2453,11 +2453,11 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
-      "SourceId": "cuestionarioNom35",
+      "Identity": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "SourceId": "cuestionarioNom",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\",
-      "BasePath": "_content/cuestionarioNom35",
+      "ContentRoot": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\",
+      "BasePath": "_content/cuestionarioNom",
       "RelativePath": "lib/jquery-validation/dist/additional-methods#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -2474,11 +2474,11 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
-      "SourceId": "cuestionarioNom35",
+      "Identity": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "SourceId": "cuestionarioNom",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\",
-      "BasePath": "_content/cuestionarioNom35",
+      "ContentRoot": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\",
+      "BasePath": "_content/cuestionarioNom",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -2495,11 +2495,11 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
-      "SourceId": "cuestionarioNom35",
+      "Identity": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "SourceId": "cuestionarioNom",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\",
-      "BasePath": "_content/cuestionarioNom35",
+      "ContentRoot": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\",
+      "BasePath": "_content/cuestionarioNom",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -2516,11 +2516,11 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
-      "SourceId": "cuestionarioNom35",
+      "Identity": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "SourceId": "cuestionarioNom",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\",
-      "BasePath": "_content/cuestionarioNom35",
+      "ContentRoot": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\",
+      "BasePath": "_content/cuestionarioNom",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -2537,11 +2537,11 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
-      "SourceId": "cuestionarioNom35",
+      "Identity": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "SourceId": "cuestionarioNom",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\",
-      "BasePath": "_content/cuestionarioNom35",
+      "ContentRoot": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\",
+      "BasePath": "_content/cuestionarioNom",
       "RelativePath": "lib/jquery-validation/LICENSE#[.{fingerprint}]?.md",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -2558,11 +2558,11 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
-      "SourceId": "cuestionarioNom35",
+      "Identity": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "SourceId": "cuestionarioNom",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\",
-      "BasePath": "_content/cuestionarioNom35",
+      "ContentRoot": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\",
+      "BasePath": "_content/cuestionarioNom",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -2579,11 +2579,11 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
-      "SourceId": "cuestionarioNom35",
+      "Identity": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "SourceId": "cuestionarioNom",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\",
-      "BasePath": "_content/cuestionarioNom35",
+      "ContentRoot": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\",
+      "BasePath": "_content/cuestionarioNom",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -2600,11 +2600,11 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
-      "SourceId": "cuestionarioNom35",
+      "Identity": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "SourceId": "cuestionarioNom",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\",
-      "BasePath": "_content/cuestionarioNom35",
+      "ContentRoot": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\",
+      "BasePath": "_content/cuestionarioNom",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE#[.{fingerprint}]?.txt",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -2624,7 +2624,7 @@
   "Endpoints": [
     {
       "Route": "css/site.c2tiyv64ts.css",
-      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\css\\site.css",
+      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2669,7 +2669,7 @@
     },
     {
       "Route": "css/site.css",
-      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\css\\site.css",
+      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2705,8 +2705,8 @@
       ]
     },
     {
-      "Route": "cuestionarioNom35.bundle.scp.css",
-      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\cuestionarioNom35.bundle.scp.css",
+      "Route": "cuestionarioNom.9e2cjp17ri.bundle.scp.css",
+      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\cuestionarioNom.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2715,7 +2715,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1135"
+          "Value": "1133"
         },
         {
           "Name": "Content-Type",
@@ -2723,48 +2723,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"BrZbwZ/kbB7coDWqyk3IT6oYrRpak2RqNZ/3eRdBxN8=\""
+          "Value": "\"36EA5YUN6iXV1WLObW4RZogzIXewPFsI8SMBvPJKC2I=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 15 Oct 2025 22:30:50 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-BrZbwZ/kbB7coDWqyk3IT6oYrRpak2RqNZ/3eRdBxN8="
-        }
-      ]
-    },
-    {
-      "Route": "cuestionarioNom35.q41xqbuqzd.bundle.scp.css",
-      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\cuestionarioNom35.bundle.scp.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1135"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"BrZbwZ/kbB7coDWqyk3IT6oYrRpak2RqNZ/3eRdBxN8=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 15 Oct 2025 22:30:50 GMT"
+          "Value": "Wed, 03 Sep 2025 17:17:48 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2774,21 +2737,21 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "q41xqbuqzd"
+          "Value": "9e2cjp17ri"
         },
         {
           "Name": "label",
-          "Value": "cuestionarioNom35.bundle.scp.css"
+          "Value": "cuestionarioNom.bundle.scp.css"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-BrZbwZ/kbB7coDWqyk3IT6oYrRpak2RqNZ/3eRdBxN8="
+          "Value": "sha256-36EA5YUN6iXV1WLObW4RZogzIXewPFsI8SMBvPJKC2I="
         }
       ]
     },
     {
-      "Route": "cuestionarioNom35.q41xqbuqzd.styles.css",
-      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\obj\\Debug\\net8.0\\scopedcss\\bundle\\cuestionarioNom35.styles.css",
+      "Route": "cuestionarioNom.9e2cjp17ri.styles.css",
+      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\obj\\Debug\\net8.0\\scopedcss\\bundle\\cuestionarioNom.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2797,7 +2760,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1135"
+          "Value": "1133"
         },
         {
           "Name": "Content-Type",
@@ -2805,11 +2768,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"BrZbwZ/kbB7coDWqyk3IT6oYrRpak2RqNZ/3eRdBxN8=\""
+          "Value": "\"36EA5YUN6iXV1WLObW4RZogzIXewPFsI8SMBvPJKC2I=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 15 Oct 2025 22:30:50 GMT"
+          "Value": "Wed, 03 Sep 2025 17:17:48 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2819,21 +2782,21 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "q41xqbuqzd"
+          "Value": "9e2cjp17ri"
         },
         {
           "Name": "label",
-          "Value": "cuestionarioNom35.styles.css"
+          "Value": "cuestionarioNom.styles.css"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-BrZbwZ/kbB7coDWqyk3IT6oYrRpak2RqNZ/3eRdBxN8="
+          "Value": "sha256-36EA5YUN6iXV1WLObW4RZogzIXewPFsI8SMBvPJKC2I="
         }
       ]
     },
     {
-      "Route": "cuestionarioNom35.styles.css",
-      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\obj\\Debug\\net8.0\\scopedcss\\bundle\\cuestionarioNom35.styles.css",
+      "Route": "cuestionarioNom.bundle.scp.css",
+      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\cuestionarioNom.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2842,7 +2805,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1135"
+          "Value": "1133"
         },
         {
           "Name": "Content-Type",
@@ -2850,11 +2813,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"BrZbwZ/kbB7coDWqyk3IT6oYrRpak2RqNZ/3eRdBxN8=\""
+          "Value": "\"36EA5YUN6iXV1WLObW4RZogzIXewPFsI8SMBvPJKC2I=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 15 Oct 2025 22:30:50 GMT"
+          "Value": "Wed, 03 Sep 2025 17:17:48 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2864,13 +2827,50 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-BrZbwZ/kbB7coDWqyk3IT6oYrRpak2RqNZ/3eRdBxN8="
+          "Value": "sha256-36EA5YUN6iXV1WLObW4RZogzIXewPFsI8SMBvPJKC2I="
+        }
+      ]
+    },
+    {
+      "Route": "cuestionarioNom.styles.css",
+      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\obj\\Debug\\net8.0\\scopedcss\\bundle\\cuestionarioNom.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1133"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"36EA5YUN6iXV1WLObW4RZogzIXewPFsI8SMBvPJKC2I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 03 Sep 2025 17:17:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-36EA5YUN6iXV1WLObW4RZogzIXewPFsI8SMBvPJKC2I="
         }
       ]
     },
     {
       "Route": "favicon.61n19gt1b8.ico",
-      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\favicon.ico",
+      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\favicon.ico",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2915,7 +2915,7 @@
     },
     {
       "Route": "favicon.ico",
-      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\favicon.ico",
+      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\favicon.ico",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5172,7 +5172,7 @@
     },
     {
       "Route": "js/charts.js",
-      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\js\\charts.js",
+      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\js\\charts.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5209,7 +5209,7 @@
     },
     {
       "Route": "js/charts.xtxxf3hu2r.js",
-      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\js\\charts.js",
+      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\js\\charts.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5254,7 +5254,7 @@
     },
     {
       "Route": "js/site.js",
-      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\js\\site.js",
+      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\js\\site.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5291,7 +5291,7 @@
     },
     {
       "Route": "js/site.xtxxf3hu2r.js",
-      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\js\\site.js",
+      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\js\\site.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5336,7 +5336,7 @@
     },
     {
       "Route": "js/survey.e656sl50ef.js",
-      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\js\\survey.js",
+      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\js\\survey.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5381,7 +5381,7 @@
     },
     {
       "Route": "js/survey.js",
-      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\js\\survey.js",
+      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\js\\survey.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5418,7 +5418,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.css",
-      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5455,7 +5455,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.css.73kdqttayv.map",
-      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5500,7 +5500,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.css.map",
-      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5537,7 +5537,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.bpk8xqwxhs.css",
-      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5582,7 +5582,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.css",
-      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5619,7 +5619,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.css.8inm30yfxf.map",
-      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5664,7 +5664,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.css.map",
-      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5701,7 +5701,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.mpyigms19s.css",
-      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5746,7 +5746,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css",
-      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5783,7 +5783,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css.4gxs3k148c.map",
-      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5828,7 +5828,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
-      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5865,7 +5865,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.9b9oa1qrmt.css",
-      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5910,7 +5910,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
-      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5947,7 +5947,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.fctod5rc9n.map",
-      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5992,7 +5992,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
-      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6029,7 +6029,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.ve6x09088i.css",
-      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6074,7 +6074,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.agp80tu62r.css",
-      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6119,7 +6119,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.css",
-      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6156,7 +6156,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
-      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6193,7 +6193,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.css.st1cbwfwo5.map",
-      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6238,7 +6238,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
-      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6275,7 +6275,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.css.5vj65cig9w.map",
-      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6320,7 +6320,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
-      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6357,7 +6357,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.unj9p35syc.css",
-      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6402,7 +6402,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
-      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6439,7 +6439,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.2q4vfeazbq.map",
-      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6484,7 +6484,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
-      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6521,7 +6521,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
-      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6558,7 +6558,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
-      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6595,7 +6595,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.o371a8zbv2.map",
-      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6640,7 +6640,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.n1oizzvkh6.css",
-      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6685,7 +6685,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.q2ku51ktnl.css",
-      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6730,7 +6730,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.7na4sro3qu.css",
-      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6775,7 +6775,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.css",
-      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6812,7 +6812,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.css.jeal3x0ldm.map",
-      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6857,7 +6857,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
-      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6894,7 +6894,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
-      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6931,7 +6931,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
-      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6968,7 +6968,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.okkk44j0xs.map",
-      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7013,7 +7013,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.f8imaxxbri.css",
-      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7058,7 +7058,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.0wve5yxp74.css",
-      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7103,7 +7103,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
-      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7140,7 +7140,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.cwzlr5n8x4.map",
-      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7185,7 +7185,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
-      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7222,7 +7222,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
-      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7259,7 +7259,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
-      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7296,7 +7296,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.wmug9u23qg.map",
-      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7341,7 +7341,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.npxfuf8dg6.css",
-      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7386,7 +7386,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.css",
-      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7423,7 +7423,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.css.j75batdsum.map",
-      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7468,7 +7468,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
-      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7505,7 +7505,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.16095smhkz.css",
-      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7550,7 +7550,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
-      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7587,7 +7587,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
-      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7624,7 +7624,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.vy0bq9ydhf.map",
-      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7669,7 +7669,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.b4skse8du6.css",
-      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7714,7 +7714,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
-      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7751,7 +7751,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.ab1c3rmv7g.map",
-      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7796,7 +7796,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
-      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7833,7 +7833,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
-      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7870,7 +7870,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.56d2bn4wt9.map",
-      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7915,7 +7915,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
-      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7952,7 +7952,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.u3xrusw2ol.css",
-      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7997,7 +7997,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.tey0rigmnh.css",
-      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8042,7 +8042,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.js",
-      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8079,7 +8079,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.js.kbynt5jhd9.map",
-      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8124,7 +8124,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
-      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8161,7 +8161,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.l2av4jpuoj.js",
-      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8206,7 +8206,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.25iw1kog22.js",
-      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8251,7 +8251,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
-      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8288,7 +8288,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.c2nslu3uf3.map",
-      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8333,7 +8333,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
-      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8370,7 +8370,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.js",
-      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8407,7 +8407,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.js.2lgwfvgpvi.map",
-      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8452,7 +8452,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
-      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8489,7 +8489,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.m39kt2b5c9.js",
-      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8534,7 +8534,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
-      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8571,7 +8571,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
-      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8608,7 +8608,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.js.wsezl0heh6.map",
-      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8653,7 +8653,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.um2aeqy4ik.js",
-      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8698,7 +8698,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.js",
-      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8735,7 +8735,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.js.6ukhryfubh.map",
-      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8780,7 +8780,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.js.map",
-      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8817,7 +8817,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.js",
-      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8854,7 +8854,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.js.map",
-      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8891,7 +8891,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.js.u33ctipx7g.map",
-      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8936,7 +8936,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.zwph15dxgs.js",
-      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8981,7 +8981,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.o4kw7cc6tf.js",
-      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9026,7 +9026,7 @@
     },
     {
       "Route": "lib/bootstrap/LICENSE",
-      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\LICENSE",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9063,7 +9063,7 @@
     },
     {
       "Route": "lib/bootstrap/LICENSE.81b7ukuj9c",
-      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\lib\\bootstrap\\LICENSE",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9108,7 +9108,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.fwhahm2icz.js",
-      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9153,7 +9153,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.js",
-      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9190,7 +9190,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.5pze98is44.map",
-      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9235,7 +9235,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.dd6z7egasc.js",
-      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9280,7 +9280,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.js",
-      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9317,7 +9317,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.map",
-      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9354,7 +9354,7 @@
     },
     {
       "Route": "lib/jquery/LICENSE.mlv21k5csn.txt",
-      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9399,7 +9399,7 @@
     },
     {
       "Route": "lib/jquery/LICENSE.txt",
-      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9436,7 +9436,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.ay5nd8zt9x.js",
-      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9481,7 +9481,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.js",
-      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9518,7 +9518,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.min.9oaff4kq20.js",
-      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9563,7 +9563,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.min.js",
-      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9600,7 +9600,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.js",
-      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9637,7 +9637,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.min.b7iojwaux1.js",
-      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9682,7 +9682,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.min.js",
-      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9719,7 +9719,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.pzqfkb6aqo.js",
-      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9764,7 +9764,7 @@
     },
     {
       "Route": "lib/jquery-validation/LICENSE.md",
-      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9801,7 +9801,7 @@
     },
     {
       "Route": "lib/jquery-validation/LICENSE.x0q3zqp4vz.md",
-      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9846,7 +9846,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.47otxtyo56.js",
-      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9891,7 +9891,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
-      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9928,7 +9928,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.4v8eqarkd7.js",
-      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9973,7 +9973,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
-      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10010,7 +10010,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/LICENSE.356vix0kms.txt",
-      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10055,7 +10055,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/LICENSE.txt",
-      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom35\\cuestionarioNom\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "AssetFile": "C:\\Users\\dm45207\\source\\repos\\cuestionarioNom\\cuestionarioNom\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {

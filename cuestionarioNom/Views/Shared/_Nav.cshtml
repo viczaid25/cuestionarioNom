@@ -1,0 +1,94 @@
+﻿@using Microsoft.AspNetCore.Routing
+@{
+    string? area = (ViewContext.RouteData.Values.ContainsKey("area")
+        ? ViewContext.RouteData.Values["area"]?.ToString()
+        : null);
+
+    string? controller = ViewContext.RouteData.Values["controller"]?.ToString();
+    string? action = ViewContext.RouteData.Values["action"]?.ToString();
+
+    string Active(string? a = null, string? c = null, string? ac = null)
+    {
+        bool matchArea = (a == null && string.IsNullOrEmpty(area)) || string.Equals(area, a, System.StringComparison.OrdinalIgnoreCase);
+        bool matchCtrl = (c == null) || string.Equals(controller, c, System.StringComparison.OrdinalIgnoreCase);
+        bool matchAct = (ac == null) || string.Equals(action, ac, System.StringComparison.OrdinalIgnoreCase);
+        return (matchArea && matchCtrl && matchAct) ? "active" : "";
+    }
+}
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+    <div class="container">
+        <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">cuestionarioNom</a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#mainNav"
+                aria-controls="mainNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="collapse navbar-collapse" id="mainNav">
+            <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+
+                <li class="nav-item">
+                    <a class="nav-link @Active(null,"Home","Index")" asp-area="" asp-controller="Home" asp-action="Index">
+                        Inicio
+                    </a>
+                </li>
+
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle @(Active(null,"Surveys",null))" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                        Encuestas
+                    </a>
+                    <ul class="dropdown-menu">
+                        <!-- Si ya sabes un ID de cuestionario, apunta directo -->
+                        <li>
+                            <a class="dropdown-item" asp-area="" asp-controller="Surveys" asp-action="Start" asp-route-questionnaireId="1">
+                                Iniciar encuesta (ID=1)
+                            </a>
+                        </li>
+                        <li><hr class="dropdown-divider" /></li>
+                        <li>
+                            <a class="dropdown-item" asp-area="Admin" asp-controller="Questionnaires" asp-action="Index">
+                                Ver cuestionarios disponibles
+                            </a>
+                        </li>
+                    </ul>
+                </li>
+
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle @(Active("Admin",null,null))" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                        Admin
+                    </a>
+                    <ul class="dropdown-menu">
+                        <li>
+                            <a class="dropdown-item" asp-area="Admin" asp-controller="Import" asp-action="Index">
+                                Importar cuestionario (JSON)
+                            </a>
+                        </li>
+                        <li>
+                            <a class="dropdown-item" asp-area="Admin" asp-controller="QuickBuild" asp-action="Index">
+                                Constructor masivo (pegar preguntas)
+                            </a>
+                        </li>
+                        <li>
+                            <a class="dropdown-item" asp-area="Admin" asp-controller="Questionnaires" asp-action="Index">
+                                Administrar cuestionarios
+                            </a>
+                        </li>
+                        <li>
+                            <a class="dropdown-item" asp-area="Admin" asp-controller="Rules" asp-action="Index" asp-route-questionnaireId="1">
+                                Reglas de calificación (ID=1)
+                            </a>
+                        </li>
+                    </ul>
+                </li>
+
+            </ul>
+
+            <!-- (Opcional) buscador / derecha -->
+            <!--
+            <form class="d-flex" role="search" method="get" asp-area="Admin" asp-controller="Questionnaires" asp-action="Index">
+              <input class="form-control me-2" type="search" placeholder="Buscar" aria-label="Search" name="q">
+              <button class="btn btn-outline-light" type="submit">Buscar</button>
+            </form>
+            -->
+        </div>
+    </div>
+</nav>
